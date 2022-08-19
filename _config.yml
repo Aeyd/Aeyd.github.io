@@ -1,17 +1,17 @@
 # site settings
-title: EMANUEL PALI
+title: Emanuel Pali
 subtitle: Berg- und Skiführer
-email: youremailaddress@gmail.com
+email: info@bergführer-pali.at
 description: Ich zeige dir die schönsten Gipfel.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Emanuel Pali
+street_address: Zillertal
+city: Stumm
+state: Tirol
+zip_code: 6275
+country: Österreich
+phone: +43 664 3769941
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/bergfuehrer_pali
+  LinkedIn: 
+  Twitter: 
+  Facebook: https://www.facebook.com/emanuel.pali.5
   Slack:
 
 # build settings
