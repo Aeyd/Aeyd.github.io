@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Über mich
 description: 'Staatlich geprüfter Bergführer seit 2022'
 image: assets/images/pic01.jpg
