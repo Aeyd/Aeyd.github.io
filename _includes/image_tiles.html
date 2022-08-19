@@ -1,0 +1,14 @@
+<section id="one" class="tiles">
+
+    {% for image in site.static_files %}
+      {% if image.path contains 'assets/images/gallery' %}
+        <article>
+          <span class="image">
+            <img src="{{ image.path }}" alt="{{file.basename}}" />
+          </span>
+        </article>
+      {% endif %}
+    {% endfor %}
+
+</section>
+

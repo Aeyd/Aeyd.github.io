@@ -12,13 +12,18 @@
 			list-style: none;
 			padding-left: 0;
 
+			img {
+				height: 1.3rem;
+				vertical-align: middle;
+			}
+
 			li {
 				border-left: solid 1px _palette(border);
 				color: _palette(fg-light);
 				display: inline-block;
-				line-height: 1;
 				margin-left: 1em;
 				padding-left: 1em;
+				line-height: 1.8rem;
 
 				&:first-child {
 					border-left: 0;
@@ -35,7 +40,6 @@
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
-					line-height: inherit;
 				}
 			}
 		}
