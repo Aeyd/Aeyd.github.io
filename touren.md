@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Touren
 description: Mein Tourenangebot für Sommer und Winter
 image: assets/images/pic11.jpg
