@@ -4,7 +4,7 @@ subtitle: Berg- und Skiführer
 email: info@bergführer-pali.at
 description: Ich zeige dir die schönsten Gipfel.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.bergfuehrer-pali.at" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Emanuel Pali
 street_address: Zillertal
 city: Stumm
