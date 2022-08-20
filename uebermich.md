@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: Über mich
-description: 'Staatlich geprüfter Bergführer seit 2022'
-image: assets/images/pic01.jpg
+description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
+image: assets/images/banner2.jpg
 nav-menu: true
 ---
 

@@ -31,6 +31,8 @@ socials:
   Facebook: https://www.facebook.com/emanuel.pali.5
   Slack:
 
+permalink: none
+
 # build settings
 markdown: kramdown
 
