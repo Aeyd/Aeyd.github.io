@@ -1,12 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"X<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -17,7 +9,7 @@ nav-menu: true
 </header>
 
 <span class="image fit">
-	<img src="{% link assets/images/banner2.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/banner2.jpg" alt="" data-position="top center" />
 </span>
 
 <p>
@@ -60,3 +52,4 @@ Nullam venenatis erat id vehicula viverra.
 </div>
 </section>
 </div>
+:ET

@@ -5,36 +5,24 @@
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
   -->
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include header.html %} 
-
     <!-- Main -->
     <div id="main" class="alt">
-      <!-- Two -->
-      <section id="one">
-        <div class="inner">
+      <div class="inner">
+        <section id="one">
           <header class="major">
             <h1>{{ page.title }}</h1>
           </header>
           <p>{{ page.description }}</p>
-        </div>
-      </section>
-
-      <div class="inner">
-        <section class="spotlights">
+        </section>
+        <section id="two">
           {% capture cat %}{{page.category}}{% endcapture %}
           {% include category.html category=cat %}
         </section>
       </div>
-
     </div>
-
     {% include footer.html %}
-
   </body>
-
 </html>

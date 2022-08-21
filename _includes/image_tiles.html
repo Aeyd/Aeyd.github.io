@@ -1,14 +1,11 @@
-<section id="one" class="tiles">
-
+<section id="one" class="tiles gallery">
     {% for image in site.static_files %}
       {% if image.path contains 'assets/images/gallery' %}
         <article>
           <span class="image">
-            <img loading="lazy" src="{{ absolute_url }}/{{ image.path }}" alt="{{file.basename}}" />
+            <img src="{{ image.path }}" alt="{{ file.basename }}" />
           </span>
         </article>
       {% endif %}
     {% endfor %}
-
 </section>
-
