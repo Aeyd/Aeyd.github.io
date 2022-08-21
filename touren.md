@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="/winter" class="image">
+		<a href="{{ absolute_url }}/winter" class="image">
 			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="/sommer" class="image">
+		<a href="{{ absolute_url }}/sommer" class="image">
 			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">

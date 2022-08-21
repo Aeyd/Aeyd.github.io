@@ -4,7 +4,7 @@
       {% if image.path contains 'assets/images/gallery' %}
         <article>
           <span class="image">
-            <img src="{{ image.path }}" alt="{{file.basename}}" />
+            <img loading="lazy" src="{{ absolute_url }}/{{ image.path }}" alt="{{file.basename}}" />
           </span>
         </article>
       {% endif %}
