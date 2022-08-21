@@ -69,4 +69,14 @@ img {
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+
+		&.author {
+			display: block;
+			margin: 0 _size(element-margin) _size(element-margin);
+			> img {
+				border-radius: 50%;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
 }

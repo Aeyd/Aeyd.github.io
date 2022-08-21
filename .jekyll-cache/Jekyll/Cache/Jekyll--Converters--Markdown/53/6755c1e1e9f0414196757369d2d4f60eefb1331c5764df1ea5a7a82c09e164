@@ -1,11 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
+I"<
 <!-- Main -->
 <div id="main">
 
@@ -27,7 +20,7 @@ Pellentesque aliquam maximus risus, vel sed vehicula.
 
 <div class="4u 12u$(medium)">
 	<span class="image author">
-	<img src="{% link assets/images/emanuel_pali_pp.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/emanuel_pali_pp.jpg" alt="" data-position="top center" />
 	</span>
 </div>
 
@@ -64,3 +57,4 @@ Nullam venenatis erat id vehicula viverra.
 </div>
 </section>
 </div>
+:ET
