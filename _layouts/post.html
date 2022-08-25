@@ -8,13 +8,12 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<div class="box">
-			<header class="major">
-				<h1>{{ page.title }}</h1>
-			</header>
-			{% if page.image %}<span class="image left"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-			{{ content }}
-		</div>
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+			<p>{{ page.description }}</p>
+		</header>
+		{% if page.image %}<span style="max-width: 600px;" class="image left"><img src="{{ site.baseurl }}/{{ page.image }}" alt="page.image" /></span>{% endif %}
+		{{ content }}
 	</div>
 </section>
 </div>

@@ -1,12 +1,22 @@
 {% for post in site.categories[include.category] %}
-<section>
-  <div class="box">
-    <header class="major">
-      <h2>{{ post.title }}</h2>
-      <p>{{ post.description }}</p>
-    </header>
-    {% if page.image %}<span class="image left"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-    {{ post.content }}
-  </div>
+<hr>
+<section class="category">
+    <div class="row">
+      <div class="7u 12u$(medium)">
+        {% if post.image %}<a href="{{ post.url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.image }}" /></span></a>{% endif %}
+      </div>
+      <div class="5u$ 12u$(medium)">
+        <header class="major">
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.description }}</p>
+        </header>
+        <p>
+          {{ post.content | strip_html | truncatewords: 60 }}
+          <ul class="actions">
+            <li><a href="{{ post.url }}" class="button fit">Weiterlesen</a></li>
+          </ul>
+        </p>
+      </div>
+    </div>
 </section>
 {% endfor %}
