@@ -1,12 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"U	<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -21,27 +13,23 @@ nav-menu: true
 <h3>Meine Erfahrungen</h3>
 <p>
 Der Bergsport ist mir in die Wiege gelegt worden von meinen Eltern. Seit ich ein Kind bin klettere ich Leidenschaftlich in den Bergen. War als Kind und Jugendlicher bei Kletterwettkämpfen dabei und mischte immer vorne mit. Danach begann ich zu arbeiten als Maschinenbautechniker und Konstrukteur und ging in jeder freien Minute wieder hinaus in die Natur, um Kraft zu danken.
-</p>
-<p>
+
 Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert und bin in diverse Alpine Vereinen verdrehten.
-</p>
-<p>
+
 2018 habe ich meine Ausbildung als staatl. Geprüfter Berg- und Skiführer begonnen. Seit 2021 bin ich hauptberuflich Bergführer und gebe mit Leidenschaft mein erlerntes Wissen weiter.
 </p>
 </div>
 
 <div class="4u 12u$(medium)">
 	<span class="image author">
-	<img src="{% link assets/images/emanuel_pali_pp.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/emanuel_pali_pp.jpg" alt="" data-position="top center" />
 	</span>
 </div>
 
-<div class="6u 12u$(small)">
+<div class="12u">
 <h3>Meine Spezialitäten</h3>
 <ul>
-	<li>Sportklettern</li>
-	<li>Alpine Touren</li>
-	<li>Eisklettern</li>
+	<li>Klettertouren jeglicher Art (Sportklettern, Alpine Touren, Eisklettern,…)</li>
 	<li>Skitouren</li>
 	<li>Freeriden</li>
 </ul>
@@ -65,7 +53,7 @@ Freue mich auf viele verschiede Abenteuer und neue Bekanntschaften.
 </p>
 </div>
 
-<div class="6u 12u$(small)">
+<div class="12u">
 <h3>Wichtig für mich</h3>
 <p>
 Sicherheit während der ganzen Tour von Anfang bis zum Schluss.
@@ -90,3 +78,4 @@ Am Gipfel stehen nach einer langen Klettertour und auf den Sonnenuntergang warte
 </div>
 </section>
 </div>
+:ET

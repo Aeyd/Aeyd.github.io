@@ -1,12 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"k	<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -32,7 +24,7 @@ Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert
 
 <div class="4u 12u$(medium)">
 	<span class="image author">
-	<img src="{% link assets/images/emanuel_pali_pp.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/emanuel_pali_pp.jpg" alt="" data-position="top center" />
 	</span>
 </div>
 
@@ -90,3 +82,4 @@ Am Gipfel stehen nach einer langen Klettertour und auf den Sonnenuntergang warte
 </div>
 </section>
 </div>
+:ET

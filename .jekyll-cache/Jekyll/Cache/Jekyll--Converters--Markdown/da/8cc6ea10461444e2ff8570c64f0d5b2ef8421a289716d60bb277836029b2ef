@@ -1,12 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"t	<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -32,16 +24,15 @@ Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert
 
 <div class="4u 12u$(medium)">
 	<span class="image author">
-	<img src="{% link assets/images/emanuel_pali_pp.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/emanuel_pali_pp.jpg" alt="" data-position="top center" />
 	</span>
 </div>
 
 <div class="6u 12u$(small)">
 <h3>Meine Spezialitäten</h3>
 <ul>
-	<li>Sportklettern</li>
-	<li>Alpine Touren</li>
-	<li>Eisklettern</li>
+	<li>Klettertouren jeglicher Art</li>
+	<li>Sportklettern, Alpine Touren, Eisklettern</li>
 	<li>Skitouren</li>
 	<li>Freeriden</li>
 </ul>
@@ -65,7 +56,7 @@ Freue mich auf viele verschiede Abenteuer und neue Bekanntschaften.
 </p>
 </div>
 
-<div class="6u 12u$(small)">
+<div class="12u">
 <h3>Wichtig für mich</h3>
 <p>
 Sicherheit während der ganzen Tour von Anfang bis zum Schluss.
@@ -90,3 +81,4 @@ Am Gipfel stehen nach einer langen Klettertour und auf den Sonnenuntergang warte
 </div>
 </section>
 </div>
+:ET

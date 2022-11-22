@@ -1,12 +1,4 @@
----
-layout: landing
-title: Über mich
-description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
-image: assets/images/banner2.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"b	<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -32,7 +24,7 @@ Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert
 
 <div class="4u 12u$(medium)">
 	<span class="image author">
-	<img src="{% link assets/images/emanuel_pali_pp.jpg %}" alt="" data-position="top center" />
+	<img src="/assets/images/emanuel_pali_pp.jpg" alt="" data-position="top center" />
 	</span>
 </div>
 
@@ -48,15 +40,6 @@ Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert
 </div>
 
 <div class="6u 12u$(small)">
-<h3>Mein Tip</h3>
-<p>
-Das schöne Zillertal mit seiner Berglandschaft und der Vielfalt an Bergsport Möglichkeiten.
-
-Klettertage rund um die Welt (Tirol – Wilder Kaiser, Griechenland – Kalymnos, Tenerife, Frankreich – Verdonschlucht, Thailand – Tonsai beach, Kalifornien – Yosemite Park, Norwegen- Flatanger, England – peak district, … usw.)
-</p>
-</div>
-
-<div class="6u 12u$(small)">
 <h3>Meine Motivation</h3>
 <p>
 Ich machte mein Hobby zum Beruf und dies merkt man auch, wenn man mit mir unterwegs ist.
@@ -66,6 +49,17 @@ Freue mich auf viele verschiede Abenteuer und neue Bekanntschaften.
 </div>
 
 <div class="6u 12u$(small)">
+<h3>Mein Tip</h3>
+<p>
+Das schöne Zillertal mit seiner Berglandschaft und der Vielfalt an Bergsport Möglichkeiten.
+
+Klettertage rund um die Welt (Tirol – Wilder Kaiser, Griechenland – Kalymnos, Tenerife, Frankreich – Verdonschlucht, Thailand – Tonsai beach, Kalifornien – Yosemite Park, Norwegen- Flatanger, England – peak district, … usw.)
+</p>
+</div>
+
+
+
+<div class="12u">
 <h3>Wichtig für mich</h3>
 <p>
 Sicherheit während der ganzen Tour von Anfang bis zum Schluss.
@@ -90,3 +84,4 @@ Am Gipfel stehen nach einer langen Klettertour und auf den Sonnenuntergang warte
 </div>
 </section>
 </div>
+:ET
