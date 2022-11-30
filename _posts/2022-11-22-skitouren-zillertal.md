@@ -8,6 +8,19 @@ categories: winter
 
 Je nach Kondition und Ansprüchen finden wir gemeinsam dein passendes Ziel. Egal ob es eine lange anspruchsvolle Tour oder eine Genuss-Skitour ist, hier kommt jeder auf seine Kosten.
 
+## Ziele
+- **Tettensjoch 2276m** - 900 hm Aufstieg, Genussvolle Skitour für Jedermann
+
+- **Hoher Riffler 3231m** - 800 hm Aufstieg mit verschiedensten langen Abfahrtmöglichkeiten
+
+- **Nestspitze 2966** - 1600 hm Aufstieg
+
+- **Ahornspitze 2976 m** - 1000 hm Aufstieg
+
+- **Schrammacher 3410m** - 1600 hm Aufstieg, ideale Frühjahrs Skitour
+
+und noch viele weitere Touren.
+
 ## Ablauf
 Du möchtest auf einen bestimmten Skitourenberg der Zillertaler Alpen oder lass dir die besten Skitouren und den besten Pulverschnee vom mir als Local und Bergführer zeigen. Egal ob Privatführung oder in der Gruppe, diese Entscheidung liegt bei dir. Gerne stelle ich auch ein Mehrtagesprogramm mit passender Unterkunft für euch zusammen.
 
