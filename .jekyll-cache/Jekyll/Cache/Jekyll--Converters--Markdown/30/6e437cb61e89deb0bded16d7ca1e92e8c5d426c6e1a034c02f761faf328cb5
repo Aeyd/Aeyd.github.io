@@ -1,0 +1,58 @@
+I"6<!-- Main -->
+<div id="main">
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="/winter" class="image">
+			<img src="/assets/images/winter.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Skitouren</h3>
+				</header>
+				<p>Skitouren für Anfänger oder Profis im schönen Zillertal, Tirol, oder auf der ganzen Welt. Je nach Kondition und Ansprüchen finden wir gemeinsam dein passendes Ziel.<br /><br />
+				Gemütlich geht es mit mir bergauf und in der Abfahrt immer auf der Suche nach dem besten Schnee und Abenteuer.</p>
+				<ul class="actions">
+					<li><a href="/skitouren" class="button">Mehr Infos</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="/sommer" class="image">
+			<img src="/assets/images/sommer.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sommer</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="/sommer" class="button">Mehr Infos</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="/winter" class="image">
+			<img src="/assets/images/winter.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Winter</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="/winter" class="button">Mehr Infos</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+</div>
+:ET

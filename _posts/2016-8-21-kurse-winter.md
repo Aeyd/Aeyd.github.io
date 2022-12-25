@@ -3,7 +3,7 @@ layout: post
 title: Kurse Winter
 description: Kurs
 image: assets/images/gallery/emanuel-pali-38.jpg
-categories: winter
+categories: kurse-winter
 ---
 
 ...
@@ -21,9 +21,9 @@ categories: winter
 
 ## Voraussetzung
 
-### Kraft und Kondition
+**Kraft und Kondition**
 
-### Technik
+**Technik**
 
 ## Ort
 

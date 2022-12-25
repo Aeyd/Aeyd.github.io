@@ -7,6 +7,16 @@
 /* Footer */
 
 	#footer {
+		.sponsors {
+			padding-left: 0px;
+			
+			img {
+				max-height: 80px;
+				padding: 0.5rem;
+				vertical-align: middle;
+			}
+		}
+
 		.copyright {
 			font-size: 0.8em;
 			list-style: none;

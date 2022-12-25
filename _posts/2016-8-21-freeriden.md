@@ -3,7 +3,7 @@ layout: post
 title: Freeriden
 description: Kurse und Touren
 image: assets/images/gallery/emanuel-pali-38.jpg
-categories: winter
+categories: freeriden
 ---
 
 ...
@@ -23,9 +23,9 @@ categories: winter
 
 ## Voraussetzung
 
-### Kraft und Kondition
+**Kraft und Kondition**
 
-### Technik
+**Technik**
 
 ## Ort
 
@@ -34,3 +34,4 @@ categories: winter
 ## Inkludierte Leistung
 
 ## Zusatzkosten
+

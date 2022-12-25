@@ -8,4 +8,13 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Ich habe dein Interesse geweckt, du bist aber in meinen Touren Vorschlägen nicht fündig geworden und möchtest lieber eine ganz spezielle Tour?
+
+Schicke einfach deine Anfrage via Kontaktformular an mich oder kontaktiere mich telefonisch oder per Email und wir können deine Wunschtour für dich planen.
+
+<span class="icon alt fa-phone"></span> 
+<a href="tel:+43 664 3769941">+43 664 3769941</a>
+
+<span class="icon alt fa-envelope"></span> 
+<a href="mailto:info@bergführer-pali.at">info@bergführer-pali.at</a>
+
