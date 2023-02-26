@@ -2,7 +2,7 @@
 layout: post
 title: Eisklettern
 description: Kurse und Touren
-image: assets/images/gallery/emanuel-pali-38.jpg
+image: assets/images/banner6.jpg
 categories: eisklettern
 ---
 
@@ -15,20 +15,14 @@ Eisklettern ist die Königsdisziplin im Klettersport. Es ist kalt, nass und anst
 - **EISKLETTERKURS FÜR ANFÄNGER IM ZILLERTAL**
 - **EISKLETTERN KANADA**
 
-und noch viele weitere Touren.
-
-## Ablauf
-
-## Voraussetzung
-
-**Kraft und Kondition**
-
-**Technik**
-
-## Ort
-
 ## Preis
 
-## Inkludierte Leistung
+| Teilnehmer | Preis pro Person / Tag |
+|---------|
+| ab 4 | € 150,- |
+| bei 3 | € 175,- |
+| bei 2 | € 240,- |
+| bei 1 | € 450,- |
 
-## Zusatzkosten
+Dauer 1 Tag oder auf Wunsch auch mehrere Tage
+

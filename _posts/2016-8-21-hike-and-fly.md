@@ -1,34 +1,35 @@
 ---
 layout: post
-title: Hochtour Bergsteigen Westalpen
-description: Kurs
-image: assets/images/gallery/emanuel-pali-38.jpg
+title: Hike and Fly
+description: Ausflug
+image: assets/images/banner5.jpg
 categories: hike-and-fly
 ---
 
-Die Fazination Hike&Fly ist mittlerweile für fast jeden Piloten ein erreichbares Ziel - und dies zurecht: Schließlich bedeutet Hike&Fly unvorstellbaren Spaß. Angepasst an Fähigkeiten, das Können und seine individuelle Kondition, kann der Pilot heute aus einer Fülle an Top-Material für unvergessliche Abenteuer wählen. Die Kombination aus Können, Selbsteinschätzung, Materialwahl, Wetter und Route machen das Ganze zwar etwas komplexer als das "gewöhnliche" Gondel-Paragleiten, jedoch wird man entsprechend mit mehr Erlebnis und Eindrücken belohnt.
+Die Fazination Hike & Fly ist mittlerweile für fast jeden Piloten ein erreichbares Ziel - und dies zurecht: Schließlich bedeutet Hike&Fly unvorstellbaren Spaß. Angepasst an Fähigkeiten, das Können und seine individuelle Kondition, kann der Pilot heute aus einer Fülle an Top-Material für unvergessliche Abenteuer wählen. Die Kombination aus Können, Selbsteinschätzung, Materialwahl, Wetter und Route machen das Ganze zwar etwas komplexer als das "gewöhnliche" Gondel-Paragleiten, jedoch wird man entsprechend mit mehr Erlebnis und Eindrücken belohnt.
 
 Ich unterstütze dich dabei bei unserem persönlichen Hike&Fly-Abenteuer.
 
 Für den Tandemflug und die Flugbegleitung vertraue ich auf meinen starken Partner und Tandempiloten
 
 ## Ziele
-- SUNSET HIKE AND FLY
-- HIKE AND FLY 3000
-- HIKE AND FLY 4000
+- **SUNSET HIKE AND FLY**
+- **HIKE AND FLY 3000**
+- **HIKE AND FLY 4000**
 
-## Ablauf
+## Anforderungen Soloflug 
+Paragleiterschein (A-Schein) und min. 100 Höhenflüge Sicheres und selbstständiges Starten und Landen in anspruchsvollem Gelände. Wir weisen ausdrücklich darauf hin, dass auf eigene Verantwortung gestartet, geflogen und gelandet wird (Funkanweisungen auf Anfrage).
 
-## Voraussetzung
-
-**Kraft und Kondition**
-
-**Technik**
-
-## Ort
+## Material 
+Bergtouren Ausrüstung Hike and Fly Ausrüstung (nur für Soloflieger)
 
 ## Preis
 
-## Inkludierte Leistung
+| Teilnehmer | Preis pro Person / Tag |
+|---------|
+| ab 4 | € 150,- |
+| bei 3 | € 175,- |
+| bei 2 | € 240,- |
+| bei 1 | € 450,- |
 
-## Zusatzkosten
+Dauer 1 Tag oder auf Wunsch auch mehrere Tage

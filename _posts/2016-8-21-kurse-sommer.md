@@ -2,30 +2,23 @@
 layout: post
 title: Kurse Sommer
 description: Kurs
-image: assets/images/gallery/emanuel-pali-38.jpg
+image: assets/images/banner5.jpg
 categories: kurse-sommer
 ---
 
 Ihr wollt euch als Gruppe weiterbilden oder wieder gelerntes Auffrischen? Dann bucht gerne bei mir individuelle Kurse. Ich bin ein sehr gelassener Mensch und gib gerne mein Wissen weiter. Mir macht es Spaß Kurse zugeben und jemanden weiterzubilden, Tipps zu geben um im Bergsport sicherer unterwegs zu sein.
 
 ## Ziele
-- HOCHTOUREN- UND GLETSCHERKURS
-- KLETTER CAMP ZILLERTAL
-- ALPINKLETTER CAMP ZILLERTAL
-- INDIVIDUELLE TOUREN
-
-## Ablauf
-
-## Voraussetzung
-
-**Kraft und Kondition**
-
-**Technik**
-
-## Ort
+- **HOCHTOUREN- UND GLETSCHERKURS**
+- **KLETTER CAMP ZILLERTAL**
+- **ALPINKLETTER CAMP ZILLERTAL**
+- **INDIVIDUELLE TOUREN**
 
 ## Preis
 
-## Inkludierte Leistung
-
-## Zusatzkosten
+| Teilnehmer | Preis pro Person / Tag |
+|---------|
+| ab 4 | € 150,- |
+| bei 3 | € 175,- |
+| bei 2 | € 240,- |
+| bei 1 | € 450,- |

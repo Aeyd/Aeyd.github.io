@@ -1,7 +1,7 @@
 ---
 layout: tours
 title: Klettersteige
-description: 'Klettersteige von Schwer bis einfach'
+description: 'Klettersteige von schwer bis einfach'
 category: klettersteige
 nav-menu: false
 show_tile: false

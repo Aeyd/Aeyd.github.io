@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Skitouren Tirol
-description: Skitour
-image: assets/images/gallery/emanuel-pali-38.jpg
+title: Skitouren
+description: Tour
+image: assets/images/banner6.jpg
 categories: skitouren
 ---
 
@@ -10,7 +10,14 @@ Skitouren für Anfänger oder Profis im schönen Zillertal, Tirol, oder auf der 
 
 Gemütlich geht es mit mir bergauf und in der Abfahrt immer auf der Suche nach dem besten Schnee und Abenteuer.
 
-## Ziele
+## Ziele Zillertal
+- **Tettensjoch**
+- **Hoher Riffler**
+- **Nestspitze**
+- **Ahornspitz**
+- **Schrammacher**
+
+## Ziele Tirol
 - **Torhelm** 
 - **Ahornspitze** 
 - **Rastkogel** 
