@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ absolute_url }}/skitouren" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-39.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -30,7 +30,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/skihochtouren" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-hochtouren-03.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,7 +46,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/skidurchquerungen" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-54.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -62,7 +62,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/freeriden" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-48.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -78,7 +78,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/eisklettern" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-47.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -94,7 +94,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/schneeschuhtouren" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-38.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -110,7 +110,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/kurse-winter" class="image">
-			<img src="{% link assets/images/winter.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-hochtouren-17.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -126,7 +126,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/hochtouren" class="image">
-			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-hochtouren-05.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -142,7 +142,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/alpinklettern" class="image">
-			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-hochtouren-01.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -158,7 +158,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/sportklettern" class="image">
-			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-hochtouren-07.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -174,7 +174,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/klettersteige" class="image">
-			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-57.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -190,7 +190,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{{ absolute_url }}/kurse-sommer" class="image">
-			<img src="{% link assets/images/sommer.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gallery/emanuel-pali-55.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
