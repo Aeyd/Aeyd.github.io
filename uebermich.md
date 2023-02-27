@@ -20,13 +20,13 @@ nav-menu: true
 <div class="8u 12u$(medium)">
 <h3>Meine Erfahrungen</h3>
 <p>
-Der Bergsport ist mir in die Wiege gelegt worden von meinen Eltern. Seit ich ein Kind bin klettere ich Leidenschaftlich in den Bergen. War als Kind und Jugendlicher bei Kletterwettkämpfen dabei und mischte immer vorne mit. Danach begann ich zu arbeiten als Maschinenbautechniker und Konstrukteur und ging in jeder freien Minute wieder hinaus in die Natur, um Kraft zu danken.
+Der Bergsport ist mir von meinen Eltern in die Wiege gelegt worden. Seit ich ein Kind bin klettere ich leidenschaftlich in den Bergen. Ich war als Kind und Jugendlicher bei Kletterwettkämpfen dabei und mischte immer vorne mit. Danach begann ich zu arbeiten als Maschinenbautechniker und Konstrukteur und ging in jeder freien Minute wieder hinaus in die Natur, um Kraft zu tanken.
 </p>
 <p>
-Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert und bin in diverse Alpine Vereinen verdrehten.
+Seit 2011 wohne ich im Zillertal und habe dort die Bergrettungsausbildung absolviert und bin in diversen alpinen Vereinen vertreten.
 </p>
 <p>
-2018 habe ich meine Ausbildung als staatl. Geprüfter Berg- und Skiführer begonnen. Seit 2021 bin ich hauptberuflich Bergführer und gebe mit Leidenschaft mein erlerntes Wissen weiter.
+2018 habe ich meine Ausbildung als staatl. geprüfter Berg- und Skiführer begonnen. Seit 2021 bin ich hauptberuflich Bergführer und gebe mit leidenschaft mein erlerntes Wissen weiter.
 </p>
 </div>
 
@@ -48,7 +48,7 @@ Wohne seit 2011 im Zillertal und habe dort die Bergrettungsausbildung absolviert
 </div>
 
 <div class="6u 12u$(small)">
-<h3>Mein Tip</h3>
+<h3>Mein Tipp</h3>
 <p>
 Das schöne Zillertal mit seiner Berglandschaft und der Vielfalt an Bergsport Möglichkeiten.
 
@@ -70,9 +70,9 @@ Freue mich auf viele verschiede Abenteuer und neue Bekanntschaften.
 <p>
 Sicherheit während der ganzen Tour von Anfang bis zum Schluss.
 
-Spaß, Erholung und keinen Stress!! Denn ich bin ein sehr geduldiger Mensch.
+Spaß, Erholung und keinen Stress! Denn ich bin ein sehr geduldiger Mensch.
 
-Das man viel Wissen mit nimmt für die weiteren Abenteuer am Berg.
+Das man viel Wissen mitnimmt für die weiteren Abenteuer am Berg.
 
 Und natürlich gemütliche Nachbesprechungen bei einem kühlen Bier.
 </p>

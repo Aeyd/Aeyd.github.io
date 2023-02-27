@@ -29,7 +29,8 @@ show_tile: false
 
 <p>
     Emanuel Pali<br>
-	6275, Mayerhofen<br>
+	Dursterstraße 240<br>
+    6290 Mayrhofen<br>
 	Zillertal, Tirol<br>
 	Österreich
 </p>

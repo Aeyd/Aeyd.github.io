@@ -74,15 +74,6 @@ show_tile: false
 			umfasst. Die Einwilligung ist jederzeit widerrufbar.</p>
 		<p>Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erf&uuml;llung seiner Leistungspflichten
 			erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.</p>
-		<p>Wir setzen folgenden Hoster ein:</p>
-		<p>Render Services, Inc.<br />
-			Address: 525 Brannan St, San Francisco, CA 94131, United States of America<br />
-			Phone: 415-830-4762<br />
-			Email: privacy@render.com</br>
-		</p>
-		<p>
-			Weitere Informationen finden Sie unter <a href="https://render.com/privacy">https://render.com/privacy</a>.
-		</p> -->
 		<h3>Auftragsverarbeitung</h3>
 		<p>Wir haben einen Vertrag &uuml;ber Auftragsverarbeitung (AVV) mit dem oben genannten Anbieter geschlossen. Hierbei
 			handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gew&auml;hrleistet, dass dieser die
@@ -105,7 +96,8 @@ show_tile: false
 
 		<p>
 			Emanuel Pali<br>
-			6275, Mayerhofen<br>
+			Dursterstraße 240<br>
+			6290 Mayrhofen<br>
 			Zillertal, Tirol<br>
 			Österreich
 		</p>
@@ -315,8 +307,10 @@ show_tile: false
 		<p>Weitere Informationen zu Font Awesome finden Sie in der Datenschutzerkl&auml;rung f&uuml;r Font Awesome unter: <a
 				href="https://fontawesome.com/privacy" target="_blank"
 				rel="noopener noreferrer">https://fontawesome.com/privacy</a>.</p>
+		<h3>Formspree Kontakformular</h3>
+		<p>Für das Kontaktformular verwenden wir den externen Anbieter Formspree, welche für die Übermittlung der eingegebenen Daten im Kontaktformular von uns beauftragt wurde.</p>
+		<p>Durch die Verwendung des Kontaktformulars stimmen Sie der Datenschutzerklärung von Formspree <a href="https://formspree.io/legal/privacy-policy">https://formspree.io/legal/privacy-policy</a> zu und sind sich bewusst das Ihre Daten von diesem Anbieter verarbeitet werden.</p> 
 		<p>Quelle: e-recht24.de</p>
-
 	</div>
 </section>
 
