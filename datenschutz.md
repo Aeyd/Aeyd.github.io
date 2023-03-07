@@ -307,7 +307,7 @@ show_tile: false
 		<p>Weitere Informationen zu Font Awesome finden Sie in der Datenschutzerkl&auml;rung f&uuml;r Font Awesome unter: <a
 				href="https://fontawesome.com/privacy" target="_blank"
 				rel="noopener noreferrer">https://fontawesome.com/privacy</a>.</p>
-		<h3>Formspree Kontakformular</h3>
+		<h3>Formspree Kontaktformular</h3>
 		<p>Für das Kontaktformular verwenden wir den externen Anbieter Formspree, welche für die Übermittlung der eingegebenen Daten im Kontaktformular von uns beauftragt wurde.</p>
 		<p>Durch die Verwendung des Kontaktformulars stimmen Sie der Datenschutzerklärung von Formspree <a href="https://formspree.io/legal/privacy-policy">https://formspree.io/legal/privacy-policy</a> zu und sind sich bewusst das Ihre Daten von diesem Anbieter verarbeitet werden.</p> 
 		<p>Quelle: e-recht24.de</p>

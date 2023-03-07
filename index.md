@@ -16,5 +16,5 @@ Schicke einfach deine Anfrage via Kontaktformular an mich oder kontaktiere mich 
 <a href="tel:+43 664 3769941">+43 664 3769941</a>
 
 <span class="icon alt fa-envelope"></span> 
-<a href="mailto:info@bergführer-pali.at">info@bergführer-pali.at</a>
+<a href="mailto:info@bergfuehrer-pali.at">info@bergfuehrer-pali.at</a>
 
