@@ -6,6 +6,7 @@ nav-menu: false
 description: null
 image: null
 author: null
+permalink: datenschutz
 show_tile: false
 ---
 

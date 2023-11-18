@@ -15,7 +15,7 @@ Im Zillertal gibt es Zahlreiche Klettersteig Touren für neu Einsteiger oder Pro
 - **5 GIPFEL KLETTERSTEIG ROFAN**
 - **INDIVIDUELLE TOUREN**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -23,3 +23,6 @@ Im Zillertal gibt es Zahlreiche Klettersteig Touren für neu Einsteiger oder Pro
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.

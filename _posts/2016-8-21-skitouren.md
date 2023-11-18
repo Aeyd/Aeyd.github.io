@@ -43,7 +43,7 @@ Gerne stelle ich auch ein Mehrtagesprogramm mit passender Unterkunft für euch z
 ## Ort
 Ausgangspunkte sind Hochfügen, Mayrhofen oder das Tuxer Tal, genauer Treffpunkt für die Tour wird bekannt gegeben.
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -52,6 +52,9 @@ Ausgangspunkte sind Hochfügen, Mayrhofen oder das Tuxer Tal, genauer Treffpunkt
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
 
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
+
 Dauer 1 Tag oder auf Wunsch auch mehrere Tage
 
 Termin Jederzeit möglich (Dez. bis Mai)
@@ -59,7 +62,7 @@ Termin Jederzeit möglich (Dez. bis Mai)
 ## Inkludierte Leistung
 Führung durch staatlich geprüften Berg- und Schiführer
 
-Leihausrüstung (LVS-Gerät, Schaufel, Sonde
+Leihausrüstung (LVS-Gerät, Schaufel, Sonde)
 
 ## Zusatzkosten
 - Anfahrtkosten

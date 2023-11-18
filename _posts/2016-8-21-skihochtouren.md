@@ -13,7 +13,7 @@ Der nächste Schritt von der normalen Skitour ins Hochgebirge auf Gletschern unt
 - **SKIHOCHTOUR GROSSGLOCKNER 3798m**
 - **SKIHOCHTOUR MONT BLANC 4810M**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -22,3 +22,5 @@ Der nächste Schritt von der normalen Skitour ins Hochgebirge auf Gletschern unt
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
 
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.

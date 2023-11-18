@@ -10,12 +10,12 @@ Das Zillertal bietet perfektes Gelände für beste Freerideabfahrten, egal ob Pr
 
 ## Ziele
 - **Freeriden Zillertal und Tirol** 
-- **Freeriden Mayerhofen / Tux** 
+- **Freeriden Mayrhofen / Tux** 
 - **Freeride & Heliskiing Livigno** 
 - **Freeride & Heliskiing Livigno** 
 - **Freeride- und Tiefschneekurs für Anfänger** 
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -24,4 +24,8 @@ Das Zillertal bietet perfektes Gelände für beste Freerideabfahrten, egal ob Pr
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
 
-Dauer 1 Tag oder auf Wunsch auch mehrere Tage
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
+
+Dauer 1 Tag oder auf Wunsch auch mehrere Tage.
+

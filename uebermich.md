@@ -3,6 +3,7 @@ layout: landing
 title: Über mich
 description: 'Staatlich geprüfter Berg- und Skiführer seit 2022'
 image: assets/images/banner2.jpg
+permalink: uebermich
 nav-menu: true
 ---
 

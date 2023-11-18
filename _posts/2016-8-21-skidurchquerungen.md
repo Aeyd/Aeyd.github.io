@@ -48,7 +48,6 @@ Von der Rudolfshütte geht’s zur Granatspitze 3086m, anschließend folgt eine 
 
 Aufstieg 1660 Hm, Abfahrt 1590 Hm, 7 std.
 
-
 ### 7. Tag
 Besteigung Großglockner (3798m) - Top of Austria
 Zum Abschluss erwartet uns noch die Skitour auf das Dach Österreichs – den Großglockner (3.798 m). Dabei sprechen wir von einer technisch anspruchsvollen Skitour, welche im oberen Bereich des Gipfelgrates klettertechnische Fähigkeiten einfordert.
@@ -58,13 +57,17 @@ Nachdem wir wieder zu unserem Skidepot zurückgekehrt sind, treten wir die wunde
 ### Aufstieg 
 1000 Hm, Abfahrt 1900 Hm, ca. 6 std.
 
-### Preis
+### Grundpreis
+
 | Teilnehmer | Preis pro Person |
 |---------|
 | ab 4 | € 880,- |
 | bei 3 | € 1080,- |
 | bei 2 | € 1480,- |
 | bei 1 | € 2680,-- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 ### Termine	
 beste Zeit März, April, Mai
@@ -88,7 +91,7 @@ Von der Hütte kurze Abfahrt auf den Gletscher und nach flacher Querung Anstieg 
 ### Etappe 5
 Von der Hütte kurze Abfahrt in den Col de Chermotane und über weite Gletscherhänge in den Col de l’Evêque (3386 m). Kurze Abfahrt und Gegenanstieg, zuletzt zu Fuß, in den Col du M. Brulé (3213 m). Kurze Abfahrt und über weite Hänge in den Col de Valpelline (3562 m). Lange Abfahrt über teils spaltige Gletscher nach Zermatt (1616 m).
 
-### Preis
+### Grundpreis
 
 | Teilnehmer | Preis pro Person |
 |---------|
@@ -97,7 +100,10 @@ Von der Hütte kurze Abfahrt in den Col de Chermotane und über weite Gletscherh
 | bei 2 | € 1450,- |
 | bei 1 | € 2750,- |
 
-Dauer 5 Tage
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
+
+Dauer 5 Tage.
 
 ### Termine	
 beste Zeit März, April, Mai

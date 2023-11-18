@@ -31,7 +31,7 @@ Noch etwas höher hinaus geht’s in den Westalpen. Sehr schöne Berglandschaft 
 - **MONTE ROSA DURCHQUERUNG "SPAGHETTI TOUR"**
 - **MATTERHORN 4478M – HÖRNLIGRAT**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -39,5 +39,8 @@ Noch etwas höher hinaus geht’s in den Westalpen. Sehr schöne Berglandschaft 
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 Dauer 1 Tag oder auf Wunsch auch mehrere Tage

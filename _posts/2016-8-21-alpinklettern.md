@@ -16,7 +16,7 @@ Klettern ist ein Trend Sport. Klettere mit mir am Wilden Kaiser historische Tour
 - **ELLMAUER HALT 2344M – KOPFTÖRLGRAT**
 - **KLEINE ZINNE 2857M - GELBE KANTE**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -24,5 +24,8 @@ Klettern ist ein Trend Sport. Klettere mit mir am Wilden Kaiser historische Tour
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 Dauer 1 Tag oder auf Wunsch auch mehrere Tage

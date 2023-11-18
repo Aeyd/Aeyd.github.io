@@ -12,7 +12,7 @@ Schneeschuhtouren im Zillertal ist ein besonderes Abenteuer. Aufstieg in verschn
 - **KLEINER GAMSSTEIN 1924M**
 - **RASTKOGELHÜTTE 2124M**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -20,3 +20,6 @@ Schneeschuhtouren im Zillertal ist ein besonderes Abenteuer. Aufstieg in verschn
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.

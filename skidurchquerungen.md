@@ -5,6 +5,7 @@ description: 'Einmal quer durch die Alpen'
 category: skidurchquerungen
 nav-menu: false
 show_tile: false
+permalink: skidurchquerungen
 image: assets/images/banner6.jpg
 ---
 
@@ -60,14 +61,17 @@ Nachdem wir wieder zu unserem Skidepot zurückgekehrt sind, treten wir die wunde
 ### Aufstieg 
 1000 Hm, Abfahrt 1900 Hm, ca. 6 std.
 
-### Preis
+### Grundpreis
 
 | Teilnehmer | Preis pro Person |
 |---------|
 | ab 4 | € 880,- |
 | bei 3 | € 1080,- |
 | bei 2 | € 1480,- |
-| bei 1 | € 2680,-- |
+| bei 1 | € 2680,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 ### Termine	
 beste Zeit März, April, Mai
@@ -91,7 +95,7 @@ Von der Hütte kurze Abfahrt auf den Gletscher und nach flacher Querung Anstieg 
 ### Etappe 5
 Von der Hütte kurze Abfahrt in den Col de Chermotane und über weite Gletscherhänge in den Col de l’Evêque (3386 m). Kurze Abfahrt und Gegenanstieg, zuletzt zu Fuß, in den Col du M. Brulé (3213 m). Kurze Abfahrt und über weite Hänge in den Col de Valpelline (3562 m). Lange Abfahrt über teils spaltige Gletscher nach Zermatt (1616 m).
 
-### Preis
+### Grundpreis
 
 | Teilnehmer | Preis pro Person |
 |---------|
@@ -99,6 +103,9 @@ Von der Hütte kurze Abfahrt in den Col de Chermotane und über weite Gletscherh
 | bei 3 | € 1020,- |
 | bei 2 | € 1450,- |
 | bei 1 | € 2750,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 Dauer 5 Tage
 

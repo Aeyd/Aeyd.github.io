@@ -5,6 +5,7 @@ description: 'Individuelle Sportkletter Reisen'
 category: sportklettern
 nav-menu: false
 show_tile: false
+permalink: sportklettern
 image: assets/images/banner5.jpg
 ---
 
@@ -13,7 +14,7 @@ Sei es auf die Kletterer Insel Kalymons Griechenland, in den Calanques Frankreic
 ## Ziele
 - **Kletterkurs Fels**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -21,3 +22,6 @@ Sei es auf die Kletterer Insel Kalymons Griechenland, in den Calanques Frankreic
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.

@@ -5,6 +5,7 @@ description: 'Individuelle Kursmöglichkeiten im Winter'
 category: kurse-winter
 nav-menu: false
 show_tile: false
+permalink: kurse-winter
 image: assets/images/banner6.jpg
 ---
 
@@ -16,7 +17,7 @@ Ihr wollt euch als Gruppe weiterbilden oder wieder gelerntes auffrischen? Dann b
 - **FREERIDE- UND TIEFSCHNEEKURS FÜR ANFÄNGER**
 - **EISKLETTERKURS FÜR ANFÄNGER**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -24,3 +25,6 @@ Ihr wollt euch als Gruppe weiterbilden oder wieder gelerntes auffrischen? Dann b
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.

@@ -4,7 +4,7 @@ subtitle: Berg- und Skiführer
 email: info@bergfuehrer-pali.at
 description: "#happyclientshappyemi"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://www.bergfuehrer-pali.at" # the base hostname & protocol for your site
 author: Emanuel Pali
 street_address: Mayrhofen
 city: Zillertal

@@ -6,6 +6,7 @@ category: hochtouren
 nav-menu: false
 show_tile: false
 image: assets/images/banner5.jpg
+permalink: hochtouren
 ---
 
 Du wolltest schon immer mal auf einen gewissen Berg stehen und hattest nie den richtigen Partner? Ich begleite dich auf die Berge vom Zillertal bis in die ganze Welt. Speziell auf dich eingestellt kann ich auf deine Bedürfnisse eingehen und wir können so die Tour gemeinsam genießen. Irgendwann den höchsten Gipfel Österreichs den Großglockner 3798m zu erklimmen ist für fast jeden Bergsteiger ein Kindheits Traum. Mit meinem Wissen & Know How bist du perfekt gerüstet für deinen ersten Gipfelsieg.
@@ -33,7 +34,7 @@ Noch etwas höher hinaus geht’s in den Westalpen. Sehr schöne Berglandschaft 
 - **MONTE ROSA DURCHQUERUNG "SPAGHETTI TOUR"**
 - **MATTERHORN 4478M – HÖRNLIGRAT**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -42,4 +43,7 @@ Noch etwas höher hinaus geht’s in den Westalpen. Sehr schöne Berglandschaft 
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
 
-Dauer 1 Tag oder auf Wunsch auch mehrere Tage
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
+
+Dauer 1 Tag oder auf Wunsch auch mehrere Tage.

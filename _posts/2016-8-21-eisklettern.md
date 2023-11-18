@@ -15,7 +15,7 @@ Eisklettern ist die Königsdisziplin im Klettersport. Es ist kalt, nass und anst
 - **EISKLETTERKURS FÜR ANFÄNGER IM ZILLERTAL**
 - **EISKLETTERN KANADA**
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -23,6 +23,9 @@ Eisklettern ist die Königsdisziplin im Klettersport. Es ist kalt, nass und anst
 | bei 3 | € 175,- |
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
+
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
 
 Dauer 1 Tag oder auf Wunsch auch mehrere Tage
 

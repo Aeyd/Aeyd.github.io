@@ -1,10 +1,11 @@
 ---
-layout: tours
+layout: post
 title: Hike and Fly
 description: 'Wandern mit dem besonderen Abstieg'
 category: hike-and-fly
 nav-menu: false
 show_tile: false
+permalink: hike-and-fly
 image: assets/images/banner5.jpg
 ---
 
@@ -25,7 +26,7 @@ Paragleiterschein (A-Schein) und min. 100 Höhenflüge Sicheres und selbstständ
 ## Material 
 Bergtouren Ausrüstung Hike and Fly Ausrüstung (nur für Soloflieger)
 
-## Preis
+## Grundpreis
 
 | Teilnehmer | Preis pro Person / Tag |
 |---------|
@@ -34,4 +35,7 @@ Bergtouren Ausrüstung Hike and Fly Ausrüstung (nur für Soloflieger)
 | bei 2 | € 240,- |
 | bei 1 | € 450,- |
 
-Dauer 1 Tag oder auf Wunsch auch mehrere Tage
+Der Grundpreis bezieht sich auf den Tagessatz des Österreichischen Bergführerverbandes.
+Dieser Preis kann sich individuell je nach Schwierigkeit, Teilnehmeranzahl, Austragungsort oder Länge ändern.
+
+Dauer 1 Tag oder auf Wunsch auch mehrere Tage.
